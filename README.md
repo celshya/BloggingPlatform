@@ -1,1 +1,1 @@
-# BloggingPlatform
+# BloggingPlatform-backend
